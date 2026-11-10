@@ -1,2 +1,7 @@
-# protean-seg-emails_github_canvas_memory_terminal_3671-q7m3
-Code for prototype-driven few-shot surgical segmentation (MICCAI 2024)
+# protean-seg
+
+Official code for **Prototype-Driven Few-Shot Segmentation for Surgical Imagery** (MICCAI 2024).
+
+Includes the prototype-attention decoder, the episodic training loop and the domain-adaptation stage described in the paper. Pre-trained weights are released with the v1.2 tag.
+
+This is the canonical repository maintained by the Adaptive Systems Lab.
